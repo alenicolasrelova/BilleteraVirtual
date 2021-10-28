@@ -61,6 +61,12 @@ body {
     letter-spacing: 2px;
 }
 
+.presupuesto_valor:hover{
+    font-size: 55px;
+    transform: rotate(6deg);
+    transition: 1s;
+}
+
 .presupuesto_ingreso,
 .presupuesto_egreso {
     padding: 12px;
